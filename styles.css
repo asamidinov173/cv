@@ -1,0 +1,51 @@
+body {
+  background-color: #f1f1f1;
+  color: #0f141e;
+
+  font-family: "Lato", sans-serif;
+}
+
+.container {
+  padding: 0 400px;
+}
+
+nav {
+  font-size: 18px;
+
+  padding-top: 30px;
+  word-spacing: 15px;
+}
+
+h1 {
+  font-size: 36px;
+  padding: 35px 0px;
+}
+
+h2 {
+  font-size: 30px;
+  padding: 15px 0px;
+}
+
+p {
+  font-size: 18px;
+  word-spacing: 10px 5px;
+  line-height: 35px;
+  margin: 30px 0;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  font-size: 18px;
+}
+
+p.bottom {
+  padding-bottom: 50px;
+}
