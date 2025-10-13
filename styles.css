@@ -33,13 +33,14 @@ p {
   margin: 30px 0;
 }
 
-a {
+a{
   color: black;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #f1f1f1;
 }
 
 ul {
